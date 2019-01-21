@@ -1,0 +1,31 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+
+
+- name: YouTube 
+  i18n: Dorizabelle
+  url: https://www.youtube.com/channel/UCbY6JRdRgTHIyGAD49N9bTQ
+  img: /static/assets/img/landing/youtube.png
+  desc: Subscribe to my youTube channel!
+
+- name: Instagram 
+  i18n: Dorizabelle
+  url: https://instagram.com/Dorizabelle
+  img: /static/assets/img/landing/instagram.png
+  desc: My main instagram page :)
+
+- name: Spam 
+  i18n: Doorisabell
+  url: https://instagram.com/Doorisabell
+  img: /static/assets/img/landing/instagram.png
+  desc: Follow my spam to stay up to date when I'm off camera
+
+- name: Twitter
+  i18n: Dorizabelle
+  url: https://twitter.com/Dorizabelle
+  img: /static/assets/img/landing/twitter.png
+  desc: Follow me on twitter!
+
+
+
