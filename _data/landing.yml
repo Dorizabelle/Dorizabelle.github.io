@@ -23,7 +23,7 @@
   i18n: nav.FAQ
   name: FAQ
   tpl: FAQ.html
-  page: FAQ/
+  page: FAQ
   css: timeline
 
 # - id: links
