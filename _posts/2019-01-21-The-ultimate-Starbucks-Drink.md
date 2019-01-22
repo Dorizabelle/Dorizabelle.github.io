@@ -9,8 +9,30 @@ tags: [Starbucks,Strawberry,Dorizabelle]
 icon: icon-html
 ---
 
+ Everyone wants to have a personal website, you can display your infomation to public, post blogs and make friends. If you are CS engineer, haveing a self website will benefit your interview.
 
-1. Everyone wants to have a personal website, you can display your infomation to public, post blogs and make friends. If you are CS engineer, haveing a self website will benefit your interview.
+ ![Strawberry-Acai]({{ site.img_path }}/3steps/StrawberryAcai.JPG){:style=": left;margin-left: 7px;margin-top: 7px;" class="img-responsive" width="20%" }
+ 
 
-	<!-- ![edit]({{ site.img_path }}/3steps/edit.gif) -->
-	<img src="{{ site.img_path }}/3steps/StrawberryAcai.JPG" width="30%">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
