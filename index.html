@@ -45,12 +45,14 @@ permalink: /
 {% include carousel.html %}
 {% endif %}
 
-{% for section in site.data.landing %}
-{% assign loopindex = forloop.index | modulo: 2 %}
-<section id="{{ section.id }}" class="features {% if loopindex != 1 %} gray-section {% endif %} {{ section.css }}" style="margin-top: 0;">
-  {% include sections/{{section.tpl}} %}
+<section id="about-me" class="features gray-section" style="margin-top: 0;">
+  {% include sections/about.html %}
 </section>
-{% endfor %}
+
+<section id="Platforms" class="features gray-section" style="margin-top: 0;">
+  {% include sections/Platforms.html %}
+</section>
+
 <style>
 iframe {
   -moz-transform: scale(0.25, 0.25);

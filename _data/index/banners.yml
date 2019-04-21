@@ -1,9 +1,13 @@
 # carousel banners section
 # Add items for each banner image in the carousel
 #
+
+
+#- src: landing/avatar_all.jpg
+- src: landing/avatar_all.png
+  title: second banner image
+  
 # Images are expected to be located in `static/assets/img/`.
 - src: landing/THEmusicbanner.png
   title: first banner image
 
-#- src: landing/header_two.jpg
-  title: second banner image
