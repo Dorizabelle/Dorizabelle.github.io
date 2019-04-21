@@ -12,6 +12,20 @@
   tpl: Platforms.html
   css: project
 
+- id: stem
+  i18n: nav.STEM
+  name: STEM
+  tpl: stem.html
+  page: stem
+  css: timeline
+
+- id: music
+  i18n: nav.Music
+  name: Music
+  tpl: music.html
+  page: music
+  css: timeline
+
 - id: blog
   i18n: nav.blog
   name: Blog

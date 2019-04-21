@@ -4,6 +4,11 @@
 - name: Platform
   href: /#Platform
 
+- name: STEM
+  href: /stem
+
+- name: Music
+  href: /music
 
 # blog page sections
 - name: Blog
@@ -11,6 +16,8 @@
 
 - name: FAQ
   href: /FAQ
+
+
   
 # # edit following lines to custom your blog page, make sure name is the same as href but capitalized first letter(except HTML)
 # - name: Python
